@@ -1,0 +1,1 @@
+GetHello = print ("Hello la Plateforme")
